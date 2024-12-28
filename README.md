@@ -1,6 +1,7 @@
 # NASHVILLE-HOUSING-DATA-ANALYSIS-SQL-PROJECT
 In this project, I worked with Nashville Housing dataset, a dataset containing statistics about land use and properties in Nashville, the capital city of the U.S. state of Tennessee.
 
+![image_alt](https://github.com/AbelEsther/NASHVILLE-HOUSING-DATA-ANALYSIS-SQL-PROJECT/blob/92085c71bac822f5e32b619884e593109dcac72e/nashville.webp)
 
 I used SQL in Microsoft SQL Management Server Studio to explore and analyze data from this database while PowerBi was used for data visualization.
 
